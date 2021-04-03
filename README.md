@@ -1,4 +1,4 @@
-# Free React landing page template
+# Free Angular Admin template
 
 ![Open React template preview](https://github.com/lub2code/images/blob/main/LubNgAdmin.png)
 
