@@ -13,7 +13,7 @@ Angular 7+, Angular CLI, TypeScript, Scss, Bootstrap 3
 ## Getting started
 
 ```
-git clone https://github.com/bknds/ng-pi-admin.git
+git clone https://github.com/lub2code/LubNgAdmin.git
 
 npm install
 
