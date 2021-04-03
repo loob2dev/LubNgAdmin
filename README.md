@@ -6,10 +6,6 @@
 
 Check the live demo here 👉️ [https://lubngadmin.web.app/](https://lubngadmin.web.app/)
 
-| Default                                                                     | Dark                                                                     | Light                                                                     |
-| --------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------- |
-| ![](https://raw.githubusercontent.com/bknds/ng-pi-admin/master/default.png) | ![](https://raw.githubusercontent.com/bknds/ng-pi-admin/master/dark.png) | ![](https://raw.githubusercontent.com/bknds/ng-pi-admin/master/light.png) |
-
 ## Based on
 
 Angular 7+, Angular CLI, TypeScript, Scss, Bootstrap 3
